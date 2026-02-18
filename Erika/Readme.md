@@ -1,7 +1,7 @@
 # Mi Perfil Profesional - Proyecto Universitario
 
 ### 1. Fotografía Personal
-[Foto de Erika Yulieth] **Foto Almacenada proximamente en el repositorio** (prueba.jpg)
+[Foto Erika Yulieth] **Foto Almacenada proximamente en el repositorio** (https://github.com/ErikaYukyMoreno/Unity-3D-2026-Programacion-de-videojuegos/blob/main/Erika/portada.png)
 
 ---
 
